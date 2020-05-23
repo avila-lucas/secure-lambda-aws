@@ -1,0 +1,24 @@
+{
+  "name": "secure-lambda-aws",
+  "version": "1.0.0",
+  "description": "A Lambda example using AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avila-lucas/secure-lambda-aws.git"
+  },
+  "keywords": [
+    "lambda",
+    "aws",
+    "utn"
+  ],
+  "author": "Lucas Avila",
+  "license": "isc",
+  "bugs": {
+    "url": "https://github.com/avila-lucas/secure-lambda-aws/issues"
+  },
+  "homepage": "https://github.com/avila-lucas/secure-lambda-aws#readme"
+}
