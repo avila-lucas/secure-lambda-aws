@@ -1,2 +1,2 @@
 # secure-lambda-aws
-A Lambda example using AWS
+A Lambda example using AWS Lambda.
